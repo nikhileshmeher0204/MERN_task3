@@ -8,7 +8,7 @@ function Home() {
     { id: 4, name: 'Task 4', link: '/task4' },
     { id: 5, name: 'Task 5', link: '/task5' },  
     { id: 6, name: 'Task 6', link: '/task6' },
-    { id : 7, name: 'Repo Link (All Task Combined)', link: 'https://github.com/niketsuchak/myPortfolio'},
+    { id : 7, name: 'Repo Link (All Task Combined)', link: 'https://github.com/nikhileshmeher0204'},
   ];
   return (
     <>
